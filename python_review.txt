@@ -1,0 +1,9 @@
+__________________________python____________________
+
+1. variables     
+2. List
+3.tupple
+4.dictionry
+5.lambda
+6.condition
+7.loop     
